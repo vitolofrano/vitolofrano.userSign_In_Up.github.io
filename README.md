@@ -2,6 +2,6 @@
 
 <html>
 <body>
-Se vuoi Visualizzare la web app visita il link <a href:"https://flutter-login-register-55350.web.app"> qui </a>
+Se vuoi Visualizzare la web app visita il link <a href="https://flutter-login-register-55350.web.app"> qui </a>
 </body>
 </html>
